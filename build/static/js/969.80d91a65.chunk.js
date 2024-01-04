@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksafeline_IOT=self.webpackChunksafeline_IOT||[]).push([[969],{96969:function(e,n,s){s.r(n);s(72791);var a=s(80184);n.default=function(){return(0,a.jsx)("div",{children:"UserManagement"})}}}]);
+//# sourceMappingURL=969.80d91a65.chunk.js.map
